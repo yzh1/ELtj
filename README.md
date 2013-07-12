@@ -7,7 +7,7 @@ Bellard's vt100 for [jslinux](http://bellard.org/jslinux/).
 
 ### irssi
 
-![](http://i.imgur.com/wqare.png)
+![](https://i.minus.com/ixumWTztgQUUw.png)
 
 ### vim & alsamixer
 
